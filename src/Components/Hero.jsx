@@ -41,7 +41,7 @@ const Hero = () => {
               <div className="py-3">
                 <button className="flex items-center gap-5 bg-blue-500 rounded-full py-4 px-4">
                   Try for FREE
-                  <img src={arrowRight} alt="" data-aos="slide-right" />
+                  <img src={arrowRight} alt="" data-aos="fade-right" />
                 </button>
               </div>
             </div>
