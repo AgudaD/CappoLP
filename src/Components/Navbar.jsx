@@ -49,7 +49,7 @@ const Navbar = () => {
                 />
               ) : (
                 <div
-                  className="top-5 right-10 absolute text-3xl cursor-pointer z-20"
+                  className="top-5 right-10 fixed text-3xl cursor-pointer z-20"
                   onClick={() => setIsOpen(!isOpen)}
                 >
                   x
