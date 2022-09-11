@@ -7,7 +7,7 @@ const Trading = () => {
   return (
     <div>
       <div className="bg-white w-full pt-[15rem] pb-10">
-        <h2 className="text-2xl text-center capitalize font-semibold mb-16">
+        <h2 className="text-2xl text-center capitalize font-semibold mb-16 px-6">
           Trade securely and market the high growth cryptocurrencies.
         </h2>
 

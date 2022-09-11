@@ -56,7 +56,7 @@ const Navbar = () => {
                 </div>
               )}
               <div
-                className={`flex flex-col justify-center items-center gap-x-[2rem] absolute top-0 left-0 bg-[#3e5a94] p-4 w-full h-full z-10 lg:hidden ${
+                className={`flex flex-col justify-center items-center gap-x-[2rem] fixed top-0 left-0 bg-[#3e5a94] p-4 w-full h-full z-10 lg:hidden ${
                   isOpen ? "top-20px" : "top-[-800px]"
                 } ease-in-out duration-500 `}
               >
